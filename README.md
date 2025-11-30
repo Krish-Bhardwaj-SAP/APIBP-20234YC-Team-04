@@ -51,5 +51,5 @@ To develop a modern TypeScript-based application providing powerful APIs for URL
 | BITS ID | Branch | Name | GitHub ID | Email |
 |---------|--------|------|-----------|-------|
 | 2023SL70009 | 2023 4Y | Rohit Sharma | rohitsharma27011 | [2023sl70009@wilp.bits-pilani.ac.in](mailto:2023sl70009@wilp.bits-pilani.ac.in) |
-| 2023SL70033 | 2023 4Y | Krish Bhardwaj | krish | [2023sl70033@wilp.bits-pilani.ac.in](mailto:2023sl70033@wilp.bits-pilani.ac.in) |
+| 2023SL70033 | 2023 4Y | Krish Bhardwaj | krish33 | [2023sl70033@wilp.bits-pilani.ac.in](mailto:2023sl70033@wilp.bits-pilani.ac.in) |
 | 2023SL70039 | 2023 4Y | Chandan Pathak | Chandan | [2023sl70039@wilp.bits-pilani.ac.in](mailto:2023sl70039@wilp.bits-pilani.ac.in) |
